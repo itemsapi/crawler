@@ -17,6 +17,7 @@ I've made many crawlers already and I'd like to share that soon and improve so m
 - easy to manage data (import / export)
 - crawling many different websites at the same time
 - cli
+- easy to monitor status (to see what's going on) 
 
 ## Inspirations 
 
